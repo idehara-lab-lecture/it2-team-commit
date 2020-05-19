@@ -14,3 +14,5 @@
 * 年齢秘密
 
 ## 29988555 永山　良
+
+[![Run on Repl.it](https://repl.it/badge/github/idehara-lab-lecture/it2-team-commit)](https://repl.it/github/idehara-lab-lecture/it2-team-commit)
